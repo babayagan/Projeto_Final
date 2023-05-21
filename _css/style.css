@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#logo{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    width: 10px;
+    height: auto;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    border: 2px solid gray;
+    width: 100px;
+    height: auto;
+}
